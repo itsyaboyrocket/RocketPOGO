@@ -1,0 +1,1 @@
+For setup info, and other stuff go here: https://github.com/maierfelix/POGOserver/wiki
